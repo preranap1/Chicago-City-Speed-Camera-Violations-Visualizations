@@ -30,12 +30,13 @@ I wanted the first visualization to give a general picture to the audience. Henc
 The question was, do violations increase or decrease over time? One would assume that with an increase in population, the number of violations also increase. To check if this assumption was true, I added the trend line to the graph. 
 ![Version 3](https://github.com/preranap1/Chicago-City-Speed-Camera-Violations-Visualizations/blob/master/Images/Viz2.4.png)
 
-Finally to focus on the trend, I reduced the opacity of the plotted graph so that the trend line sticks out.
+Finally to focus on the trend, I reduced the opacity of the plotted graph so that the trend line is in focus.
 ![Final](https://github.com/preranap1/Chicago-City-Speed-Camera-Violations-Visualizations/blob/master/Images/Viz2.5.png)
 
 **Future Enhancements:**
 
-* It would be great to present some more demographic data for Chicago, in order to learn more about the population Information like economic factors, age, distribution of males over females could be used
+* It would be great to present some more demographic data for Chicago, in order to learn more about the population 
+* Information like economic factors, age, distribution of males over females could be used
 
 
 ## Visualization 2: Population vs Violation Across Seasons
