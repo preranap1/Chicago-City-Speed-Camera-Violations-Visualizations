@@ -1,6 +1,9 @@
 
 # 'Making-Of' Document of the Visualizations 
 
+[Click here to view the project](https://public.tableau.com/profile/prerana7302#!/vizhome/Chicago-SpeedViolation-Visualizations2/Dashboard)
+
+
 Here I document the process followed while creating the visualizations.
 The audience of the visualizations would be the Mayor of Chicago. 
 
