@@ -48,7 +48,7 @@ I wanted to explore and understand how the volume of violations change over the 
 
 ![Version 1](https://github.com/preranap1/Chicago-City-Speed-Camera-Violations-Visualizations/blob/master/Images/Viz1.2.png)
 
-As the comparison across years was not very clear in version 1. I decided to change the x-axis from years to seasons and add year information on the chart itself. This made the chart even more confusion and was counter intutive. 
+As the comparison across years was not very clear in version 1. I decided to change the x-axis from years to seasons and add year information on the chart itself. This made the chart even more confusing. Overall the visualization was not intutive. 
 
 ![Version 2](https://github.com/preranap1/Chicago-City-Speed-Camera-Violations-Visualizations/blob/master/Images/Viz1.3.png)
 
