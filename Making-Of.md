@@ -9,7 +9,7 @@ The audience of the visualizations would be the Mayor of Chicago.
 
 
 ## Data Cleaning and Processing
-The original dataset is speed camera violations in Chicago where each record gives the number of violations captured by a particular camera on a given day. The zipcodes in the original dataset seemed wrong hence I used another the dataset that had information about Chicago City's various wards, zipcodes etc. The two datasets were merged using wards as the field on which the join was performed.
+The original dataset is speed camera violations in Chicago where each record gives the number of violations captured by a particular camera on a given day. The zipcodes in the original dataset seemed wrong hence I used another dataset that had information about Chicago City's various wards, zipcodes etc. The two datasets were merged using wards as the field on which the join was performed.
 
 [Source](https://data.cityofchicago.org/Facilities-Geographic-Boundaries/Ward-Offices/htai-wnw4)
 
