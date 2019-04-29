@@ -97,4 +97,4 @@ While creating the dashboard, all three visuals were placed next to each other s
 **Future Enhancements:**
 
 * Since the axis of all three visualizations is the same, I would want to make it more uniform. 
-* There is a hughe difference in the number of violations in the three graphs, especially between bottom 5 when compared to top 5 and all addresses. I would like to work on the scale of the graphs as well.
+* There is a huge difference in the number of violations in the three graphs, especially between bottom 5 when compared to top 5 and all addresses. I would like to work on the scale of the graphs as well.
