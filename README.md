@@ -6,14 +6,14 @@ data source: https://data.cityofchicago.org/Transportation/Speed-Camera-Violatio
 
 Objective of the project is to visualize three aspects of the data keeping in mind that the audience for the visualization is the Mayor of Chicago.
 
-![Data Exploration](https://public.tableau.com/profile/prerana7302#!/vizhome/dashboard1_15558144859280/Dashboard1)
+[Data Exploration](https://public.tableau.com/profile/prerana7302#!/vizhome/dashboard1_15558144859280/Dashboard1)
 
 ****
-![First Version](https://public.tableau.com/profile/prerana7302#!/vizhome/Chicago-SpeedViolation-Visualizations2/Dashboard)
+[First Version](https://public.tableau.com/profile/prerana7302#!/vizhome/Chicago-SpeedViolation-Visualizations2/Dashboard)
 
 The 'Making-Of.md' file gives an overview of the process followed while developing visuals for version one.
 
 ****
-![Final Version](https://public.tableau.com/profile/prerana7302#!/vizhome/Chicago_Violation_Visualizations_Final/Story)
+[Final Version](https://public.tableau.com/profile/prerana7302#!/vizhome/Chicago_Violation_Visualizations_Final/Story)
 
 The process followed along with the documentation of the final version is present in 'Documentation-Final_Version.md' file.
