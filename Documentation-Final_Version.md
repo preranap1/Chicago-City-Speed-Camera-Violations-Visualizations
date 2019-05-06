@@ -31,9 +31,9 @@ This led to the finding that the average speed violations for all years was much
 
 Here the aim was to check if there were any outliers based on location in terms of the number of violations. To showcase how the violations changed based on locations, they were plotted against all addresses first and then for top five addresses with most violations and bottom five addresses with most violations.
 
-The graphs themselves were not changed much from the last version. Cosmetic changes like changing the graph colours to show high or low violations in the all addresses graph, removing gridelines, adding annotations etc. were added to the visualization. This has helped make the visualization consistent and easy on the eye. 
+The graphs themselves were not changed much from the last version. Cosmetic changes like changing the graph colors to show high or low violations in the all addresses graph, removing gridlines, adding annotations etc. were done on the visualization. This has helped make the visualization consistent and easy on the eye. 
 
-Also to show all the three graphs together, a dashboard was created. 
+Finally to show all the three graphs together, a dashboard was created. 
 
 What can be observed is that even though for all addresses the day with most violations seems to be friday, it is different for top five and bottom five addresses with most violations. This shows that the top five and the bottom five addresses behave differently than the average. 
 
@@ -41,13 +41,13 @@ For the top five addresses the day with most violations seems to be Saturday and
 
 ![Viz 3](https://github.com/preranap1/Chicago-City-Speed-Camera-Violations-Visualizations/blob/master/Images/Ver2-3.png)
 
-
+### Presenting the story
 These three visualizations were then put together in the form of a story as opposed to a dashboard like the previous version. The advantage of the story format was that it was easier to explain and build in the story-telling aspect which is an essential pillar for building a good visualization framework.
 
 ## Conclusion of the Analysis:
 
 1. In general, it is observed that though the population of the City of Chicago is increasing, the overall number of speed violations observed is going down. This is a positive news as it means that violations are going down even though the expected number of cars on the roads is increasing. Though there could be many reasons for this decline, like increase in the fine amounts which discourages people from speeding. Also, Chicago is one of the most dangerous cities in United States with increasing rates for violent crimes. Hence, though speed violations contribute to the city's income, law enforcement may be diverting their forces on other serious crimes. Data regarding this will surely improve the analysis.
-2. From the second visualization, it is clear that on an average, most violations are observed in Summer. This is despite the fact that cameras around school are de-activated during this time. Hence, the law enforcement authorities could further dwell on why their citizens are speeding this much in the summer months. May-be increasing the number of speed cameras could help.
+2. From the second visualization, it is clear that on an average, most violations are observed in Summer. This is despite the fact that cameras around school are de-activated during this time. Hence, the law enforcement authorities could further dwell on why their citizens are speeding this much in the summer months. Maybe increasing the number of speed cameras could help.
 3. The third visualization identifies the addresses with highest and the lowest violations. It further identifies the addresses where schools are located and where parks are located and reinforces some of the assumptions made in the analysis. 
 
 
