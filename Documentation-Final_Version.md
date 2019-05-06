@@ -4,7 +4,7 @@
 [Click here to view the Final project](https://public.tableau.com/profile/prerana7302#!/vizhome/Chicago_Violation_Visualizations_Final/Story)
 
 ## Dataset 
-The records for the current year, 2019 were filtered out from the dataset. 
+The records for the current year, 2019 were filtered out from the dataset as this is incomplete data. The records for 2014 are also not for the entire year and can be removed but I decided to keep them as they capture trends that could be observed as soon as the speed violations program was implemented and may lead us to some interesting findings. 
 
 ## Visualization 1: Trends in Population and Violations
 
