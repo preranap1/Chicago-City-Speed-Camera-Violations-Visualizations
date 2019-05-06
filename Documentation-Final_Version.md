@@ -1,7 +1,7 @@
 
 # City of Chicago - Speed Violations - Documentation  
 
-[Click here to view the Final project](https://public.tableau.com/profile/prerana7302#!/vizhome/Chicago-SpeedViolation-Visualizations2/Dashboard)
+[Click here to view the Final project](https://public.tableau.com/profile/prerana7302#!/vizhome/Chicago_Violation_Visualizations_Final/Story)
 
 ## Dataset 
 The records for the current year, 2019 were filtered out from the dataset. 
